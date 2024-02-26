@@ -1,0 +1,37 @@
+Practica1 = Pedir 5 datos de una persona y mostrarlos.
+
+Practica2 = 3 fórmulas de áreas.
+
+Practica3 = Suma de 3 productos con 20% de descuento.
+
+Practica4 = Practica libre.
+
+Practica5 = Blindar códigos (ventilador, calificaciones, temperatura).
+
+Practica6 = Escribe un programa en Python que solicite al usuario ingresar un número e indique si es positivo, negativo o cero.
+
+Practica7 = Escribe un programa en Python que solicite al usuario ingresar el precio original de un producto y la cantidad de descuento aplicado. El programa debe calcular y mostrar el precio final después de aplicar el descuento.
+
+Practica8 = Escribe un programa en Python que solicite al usuario ingresar una contraseña. Si la contraseña es "python123", imprime "Contraseña correcta". De lo contrario, imprime "Contraseña incorrecta".
+
+Practica9 = Escribe un programa en Python que solicite al usuario ingresar un número y determine en qué rango se encuentra. Si el número está entre 1 y 10 (inclusive), imprime "El número está en el rango de 1 a 10". De lo contrario, imprime "El número está fuera del rango de 1 a 10".
+
+Practica10 = Escribe un programa en Python que solicite al usuario ingresar su peso en kilogramos y su altura en metros. Calcula el Índice de Masa Corporal (IMC) utilizando la fórmula IMC = peso / altura^2 y determina la categoría según la siguiente escala:
+
+    Menos de 18.5: Bajo peso
+    18.5-24.9: Peso normal
+    25.0-29.9: Sobrepeso
+    30.0 o más: Obesidad
+
+Practica11 = Pedir un número entre 0 y 9,999 y decir cuantas cifras tiene
+
+Practica12 = Pedir una nota de 0 a 10 y mostrarla de la forma: Insuficiente, Suficiente, Bien...
+
+Practica13 = Pedir el día, mes y año de una fecha e indicar si la fecha es correcta. Suponiendo todos los meses de
+30 días.
+
+Practica14 = Pedir el día, mes y año de una fecha e indicar si la fecha es correcta. Con meses de 28, 30 y 31 días.
+
+Practica15 = Pedir un número entre 0 y 9,999, decir si es capicúa.
+
+Practica16 = Imprimir un número de 4 dígitos al revés y ordenado de mayor a menor y menor a mayor.
