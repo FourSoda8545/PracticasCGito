@@ -1,7 +1,7 @@
 # Prcatica17v2
 
-suma=3-1+2-1
-for x in range(6):
+suma = 0
+for x in range(2, 13, 2):
 	print("x: ",x)
 	print("valor suma : ",suma)
 	suma+=x #suma = suma+x
